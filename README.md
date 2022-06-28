@@ -9,5 +9,11 @@ ScreenShots:
 ![Screenshot (231)](https://user-images.githubusercontent.com/52501040/175788382-0ce7c0c9-a623-47d2-a951-1b5a0615117e.png)
 ![Screenshot (230)](https://user-images.githubusercontent.com/52501040/175788387-86547473-2bf5-43fe-9cd1-f586bed12e84.png)
 
+# Licence
 
-If you Use This Plz Dont Forget to Like and Give me some Credit for My Work ❤️ Hamza Zaidi
+MIT LICENCE
+Read `Licence` document for more details
+
+# Bye! 👋
+
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
