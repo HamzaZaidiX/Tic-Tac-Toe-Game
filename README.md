@@ -1,11 +1,11 @@
 # Tic-Tac-Toe-Multiplayer-Game
 **Tic Tac Toe Game** Made by **Html, CSS &amp; Mainly Javascript**
 
-My **Tic Tac Toe Game** is Amazing and a Multiplayer Game because it has good Background Music and when you want character **X** or **0** the table make a tone sound and when you win the game celebrates you with gif and a confetti also you can reset to play another game
+My `Tic Tac Toe Game` is Amazing and a `Multiplayer Game` because it has good Background Music and when you want character `X` or `0` the table make a `ring sound` and when you win the game `Celebrates your wining with a gif and confetti` also you can `Reset to play another Game with your Friend` also it will `tell your Scores`.
 
 ## Check It Out:
 
-If you want to play => Check it out 🚀 
+**If you want to play** => [**Check it out 🚀**](https://tic-tac-toe-game.hamzajaffar.repl.co/)
 
 ## ScreenShots:
 ![Screenshot (231)](https://user-images.githubusercontent.com/52501040/175788382-0ce7c0c9-a623-47d2-a951-1b5a0615117e.png)
