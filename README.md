@@ -3,9 +3,11 @@
 
 My **Tic Tac Toe Game** is Amazing and a Multiplayer Game because it has good Background Music and when you want character **X** or **0** the table make a tone sound and when you win the game celebrates you with gif and a confetti also you can reset to play another game
 
-you can play My Tic Tac Toe Game from Codepen Link https://codepen.io/hamzax/pen/dymbOqa 
+## Check It Out:
 
-ScreenShots:
+If you want to play => Check it out 🚀 
+
+## ScreenShots:
 ![Screenshot (231)](https://user-images.githubusercontent.com/52501040/175788382-0ce7c0c9-a623-47d2-a951-1b5a0615117e.png)
 ![Screenshot (230)](https://user-images.githubusercontent.com/52501040/175788387-86547473-2bf5-43fe-9cd1-f586bed12e84.png)
 
