@@ -5,7 +5,7 @@ My `Tic Tac Toe Game` is Amazing and a `Multiplayer Game` because it has good Ba
 
 ## Check It Out:
 
-**If you want to play** => [**Check it out 🚀**](https://tic-tac-toe-game.hamzajaffar.repl.co/)
+**If you are bore and want something new so,** => [*Play with Friends 🚀**](https://tic-tac-toe-game.hamzajaffar.repl.co/)
 
 ## ScreenShots:
 ![Screenshot (231)](https://user-images.githubusercontent.com/52501040/175788382-0ce7c0c9-a623-47d2-a951-1b5a0615117e.png)
