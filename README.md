@@ -1,7 +1,6 @@
 # Tic-Tac-Toe-Multiplayer-Game
-**Tic Tac Toe Game** Made by **Html, CSS &amp; Mainly Javascript**
 
-My `Tic Tac Toe Game` is Amazing and a `Multiplayer Game` and has a good `Background Music` and when you want character `X` or `0` the score board will tells `who's turn is now` and When you click the the Table make a `Click Tone Sound` and when you Wins 🏆 the game `Celebrates your wining with a gif and confetti`🎊 also you can `Reset to play another Game with your Friend` also it will `tell your Scores`.
+My `Tic Tac Toe Game` built with `Html, CSS &amp; Mainly Javascript` is Amazing `Multiplayer Game` and has a good `Background Music` and when you want character `X` or `0` the score board will tells `who's turn is now` and When you click the the Table make a `Click Tone Sound` and when you Wins 🏆 the game `Celebrates your wining with a gif and confetti`🎊 also you can `Reset to play another Game with your Friend` also it will `tell your Scores`.
 
 ## [**Play with Friends 🚀**](https://play-tic-tac-toe-game-shjz.vercel.app/) 
 
